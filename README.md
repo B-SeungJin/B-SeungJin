@@ -26,7 +26,8 @@
 
 
 ## 👷🏼 Work</br>
-- 
+- 2023.09.11 ~ 09.20 : 광진구x대학교 연합축제 안내지도
+- 202
 
 
 [![B-SeungJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B-SeungJin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/B-SeungJin)
