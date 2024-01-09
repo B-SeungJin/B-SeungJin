@@ -11,8 +11,7 @@
 
 
 ## 🔨 **Skills**
-- Platforms & Languages
-<br/>
+
 <a href=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/Ejs-B4CA65?style=flat-square&logo=ejs&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=black"/></a>
