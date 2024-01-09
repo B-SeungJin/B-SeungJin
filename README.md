@@ -1,12 +1,12 @@
 ## 안녕하세요. 여러분의 일상에 녹아드는 사이트를 만들고자하는 변승진입니다.
 
-- 개발을 하게 되면 항상 개발일지를 작성하고 있습니다.
-- 배운 내용을 익히고 저의 것으로 만들고자 [블로그](https://iosoo.tistory.com/)에 작성하고 있습니다.
-- 새로운 내용에 대한 두려움이 있지만 빠른 시일 안에 극복하여 내용을 습득합니다.
-- 기록과 성장에 초점을 두고 지식 습득하기 위해 노력합니다.
+- 개발을 하게 되면 항상 개발일지(TIL)를 작성하고 있습니다.
+- 배운 내용을 익히고 저의 것으로 만들고자 [노트](https://www.notion.so/TIL-0b962de2d40f48f080278b4a41dd26ac)에 작성하고 있습니다.
+- 새로운 것을 익히는 과정이 재미있고 제가 생각한 것을 제작하는 개발 자체가 즐겁습니다.
 
 
-## 🔨 **Skill & Tools**
+## 🔨 **Skills**
+- Platforms & Languages
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <a href="https://github.com/iOS-junsoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
@@ -20,9 +20,6 @@
 <a href=""><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
 
-[![B-SeungJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B-SeungJin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/B-SeungJin)
-
-
 ## 📞 Contact</br>
 `BirthDay` | 2001.10.31</br>
 `Email` | byeon1031@naver.com</br>
@@ -32,3 +29,6 @@
 
 ## 👷🏼 Work</br>
 - 
+
+
+[![B-SeungJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B-SeungJin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/B-SeungJin)
