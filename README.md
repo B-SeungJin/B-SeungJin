@@ -2,8 +2,8 @@
 
 
 ## 📞 Contact</br>
-<a href=""><img src="https://img.shields.io/badge/byeon1031@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>
-<a href="https://velog.io/@byeon1031/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/byeon1031@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@byeon1031/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://www.notion.so/TIL-0b962de2d40f48f080278b4a41dd26ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 - 개발을 하게 되면 항상 개발일지(TIL)를 작성하고 있습니다.
