@@ -12,11 +12,13 @@
 
 ## 🔨 **Skills**
 - Platforms & Languages
+<br/>
 <a href=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/Ejs-B4CA65?style=flat-square&logo=ejs&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<br/>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
