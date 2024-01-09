@@ -1,5 +1,5 @@
-## 안녕하세요. 프론트엔드 개발자를 꿈꾸는 변승진입니다.
-## 리액트를 공부하고 사용하여 개발을 하고 있습니다. 여러분의 일상에 녹아드는 사이트를 만들고자 합니다.
+# 안녕하세요. 프론트엔드 개발자를 꿈꾸는 변승진입니다.
+리액트를 공부하고 사용하여 개발을 하고 있습니다. 여러분의 일상에 녹아드는 사이트를 만들고자 합니다.
 
 <a href=""><img src="https://img.shields.io/badge/byeon1031@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@byeon1031/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
