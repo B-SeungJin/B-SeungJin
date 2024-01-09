@@ -9,17 +9,13 @@
 
 ## 🔨 **Skills**
 - Platforms & Languages
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://github.com/iOS-junsoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-
-<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swfit-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=react&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<a href=""><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+
 
 
 ## 📞 Contact</br>
